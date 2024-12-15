@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.idea
+media
+venv
+db.sqlite3
 build/
 develop-eggs/
 dist/
